@@ -8,3 +8,4 @@ Para rodar esse projeto na sua máquina, por favor digite:
 npm install react
 ```
 
+caso queria alterar o README [clique aqui] (https://dillinger.io/)
