@@ -5,4 +5,4 @@
 
 //TRATAMENTO DE ERRo//
 
-console.error('DEU ERRO MANÉ');
+//console.error('DEU ERRO MANÉ');
